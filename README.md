@@ -4,7 +4,7 @@ Projeto Base para Testes - .Net Core
 
 ## LocalizaLabs by Digital Innovation One
 
-## Digital Innovation One (https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+[](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
 
 ## Eliézer Zarpelão
 [GitHub Timeline](https://elizarp.github.io/timeline/)  
