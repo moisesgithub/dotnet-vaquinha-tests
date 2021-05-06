@@ -4,7 +4,11 @@ Projeto Base para Testes - .Net Core
 
 ## LocalizaLabs by Digital Innovation One
 
-[DIO](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+[DIO](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6) 
+
+- _Olá DIO nesse curso de testes de unidades com .NET é novidade para mim pois estou no início dessa carreira de desenvolvimento em C#. Achei muito interessante esses testes pois deixa o projeto mais confiável para o cliente e para nós desenvolvedores fazer uso dessas boas práticas na hora de implementar um novo projeto!
+
+Fiz um Fork do projeto para acompanhar o passo a passo no código!_
 
 ## Eliézer Zarpelão
 [GitHub Timeline](https://elizarp.github.io/timeline/)  
