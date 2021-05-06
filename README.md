@@ -1,5 +1,5 @@
-# Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
-# dotnet-vaquinha-tests
+# Implementando uma stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+## dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
 ## Digital Innovation One
