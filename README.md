@@ -1,7 +1,7 @@
 # Implementando uma stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
 ## dotnet-vaquinha-tests 
 
-## LocalizaLabs by [DIO](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6) 
+## by [DIO](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6) 
 
 ### Projeto Base para Testes - .Net Core 
 _Olá DIO nesse curso de testes de unidades com .NET é novidade para mim pois estou no início dessa carreira de desenvolvimento em C#. Achei muito interessante esses testes pois deixa o projeto mais confiável para o cliente e para nós desenvolvedores fazer uso dessas boas práticas na hora de implementar um novo projeto!
